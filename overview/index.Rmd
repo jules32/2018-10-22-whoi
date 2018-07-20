@@ -1,5 +1,6 @@
+---
 title: "Software Carpentry Workshop at WHOI"
-subtitle: "Reproducible science with R, RStudio, Gitand GitHub" 
+subtitle: "Reproducible science with R, RStudio, Git, and GitHub" 
 date: "October 22-23, 2018"
 output: 
   html_document
@@ -38,7 +39,8 @@ In this workshop we'll be talking about:
 - [Data wrangling: `dplyr`](http://ohi-science.org/data-science-training/dplyr)
 - [Data wrangling: `tidyr`](http://ohi-science.org/data-science-training/tidyr)
 - [Programming in R](http://ohi-science.org/data-science-training/programming)
-- [Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating) - [How to continue building skills and community](http://ohi-science.org/data-science-training/champion)
+- [Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating)
+- [How to continue building skills and community](http://ohi-science.org/data-science-training/champion)
 
 
 # Data science workflow

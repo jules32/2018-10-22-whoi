@@ -35,7 +35,7 @@ In this workshop we'll be talking about:
 - [Workshop Overview](https://jules32.github.io/2018-10-22-whoi/overview/)
 - [R, RStudio & RMarkdown](http://ohi-science.org/data-science-training/rstudio)
 - [GitHub](http://ohi-science.org/data-science-training/github)
-- [Visualization: `ggplot2`](http://ohi-science.org/data-science-training/viz)
+- [Visualization: `ggplot2`](http://ohi-science.org/data-science-training/ggplot2)
 - [Data wrangling: `dplyr`](http://ohi-science.org/data-science-training/dplyr)
 - [Data wrangling: `tidyr`](http://ohi-science.org/data-science-training/tidyr)
 - [Programming in R](http://ohi-science.org/data-science-training/programming)

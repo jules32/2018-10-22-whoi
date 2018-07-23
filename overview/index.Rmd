@@ -6,6 +6,7 @@ output:
   html_document
 ---
 
+**Woods Hole Oceanographic Institute**
 
 **Instructors and helpers**
 

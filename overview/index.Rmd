@@ -12,6 +12,8 @@ output:
 
 - Julie Stewart Lowndes (twitter: @juliesquid | github: @jules32)
 - Jamie Afflerbach (twitter | github: @jafflerbach)
+- Brett Longworth 
+- Craig McLean
 
 ----
 

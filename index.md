@@ -17,6 +17,8 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+**This workshop is sponsored by a WHOI Technical Staff Award "Enhancing software development skills for [better science in less time](https://www.nature.com/articles/s41559-017-0160)," led by WHOI's Ocean Informatics advisory group. Registration is restricted.** 
+
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}

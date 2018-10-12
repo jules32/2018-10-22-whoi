@@ -17,7 +17,9 @@ collaborative_notes:             # optional: URL for the workshop collaborative 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
-**This workshop is sponsored by a WHOI Technical Staff Award "Enhancing software development skills for [better science in less time](https://www.nature.com/articles/s41559-017-0160)," led by WHOI's Ocean Informatics advisory group. Registration is restricted, but free of cost.**  
+**This workshop is sponsored by a WHOI Technical Staff Award "Enhancing software development skills for [better science in less time](https://www.nature.com/articles/s41559-017-0160)," led by WHOI's Ocean Informatics advisory group.** 
+
+**Registration is now closed. Please contact sbeaulieu@whoi.edu for future opportunities.**  
 
 Lunch: please bring your own or purchase at [The Buttery](http://www.whoi.edu/buttery/). 
 

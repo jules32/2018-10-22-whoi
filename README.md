@@ -5,7 +5,7 @@ All the course materials are linked from the course website: [https://jules32.gi
 Come say hello: 
  
 - Instructors: Julie Lowndes, Jamie Afflerbach
-- Hosts: Stace Beaulieu
+- Host: Stace Beaulieu
 - Helpers: Brett Longworth, Craig McLean
 
 In the workshop we'll use the sticky notes to indicate whether everything is OK (blue) or not (yellow).

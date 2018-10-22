@@ -8,7 +8,7 @@ Come say hello:
 - Hosts: Stace Beaulieu
 - Helpers: Brett Longworth, Craig McLean
 
-In the workshop we'll use the sticky notes to indicate whether everything is OK (blue) or not (pink).
+In the workshop we'll use the sticky notes to indicate whether everything is OK (blue) or not (yellow).
 
 **If you've successfully installed everything listed in the [setup instructions](http://jules32.github.io/2018-10-22-whoi/#setup), please put a blue sticky note up on your laptop.** And put up yellow if you need help. Today we'll just be using R and RStudio, so if you need help with the others we can have a look during a break.
 
@@ -16,4 +16,4 @@ In the workshop we'll use the sticky notes to indicate whether everything is OK 
 
 WIFI info is written on the whiteboard.
 
-Toilets are ...
+Toilets are just behind you.

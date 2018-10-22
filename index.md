@@ -204,6 +204,8 @@ Lunch: please bring your own or purchase at [The Buttery](http://www.whoi.edu/bu
 
 <hr/>
 
+We will use [this Google Doc](https://docs.google.com/document/d/1pEoTnqanxTFWqIzBYuK4ltIXVC1B4GWZLV5EUloiFxQ/edit?usp=sharing) for chatting, taking notes, and sharing URLs and bits of code. 
+
 
 {% comment %}
   SCHEDULE
@@ -214,7 +216,6 @@ Lunch: please bring your own or purchase at [The Buttery](http://www.whoi.edu/bu
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
 
-We will use [this Google Doc](https://docs.google.com/document/d/1pEoTnqanxTFWqIzBYuK4ltIXVC1B4GWZLV5EUloiFxQ/edit?usp=sharing) for chatting, taking notes, and sharing URLs and bits of code. 
 
 {% if page.carpentry == "swc" %}
   {% include sc/schedule.html %}

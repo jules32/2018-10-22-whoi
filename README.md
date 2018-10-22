@@ -14,6 +14,6 @@ In the workshop we'll use the sticky notes to indicate whether everything is OK 
 
 [Google Doc Link](https://docs.google.com/document/d/1pEoTnqanxTFWqIzBYuK4ltIXVC1B4GWZLV5EUloiFxQ/edit?usp=sharing)
 
-WIFI info is written on the whiteboard.
+WIFI info is written on whiteboard.
 
 Toilets are just behind you.

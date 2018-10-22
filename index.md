@@ -23,6 +23,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 Lunch: please bring your own or purchase at [The Buttery](http://www.whoi.edu/buttery/). 
 
+We will use [this Google Doc](https://docs.google.com/document/d/1pEoTnqanxTFWqIzBYuK4ltIXVC1B4GWZLV5EUloiFxQ/edit?usp=sharing) for chatting, taking notes, and sharing URLs and bits of code. 
+
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
@@ -203,9 +205,6 @@ Lunch: please bring your own or purchase at [The Buttery](http://www.whoi.edu/bu
 {% endif %}
 
 <hr/>
-
-We will use [this Google Doc](https://docs.google.com/document/d/1pEoTnqanxTFWqIzBYuK4ltIXVC1B4GWZLV5EUloiFxQ/edit?usp=sharing) for chatting, taking notes, and sharing URLs and bits of code. 
-
 
 {% comment %}
   SCHEDULE

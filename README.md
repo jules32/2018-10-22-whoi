@@ -26,7 +26,8 @@ Toilets are just behind you.
 
 Twitter:  
 Julie Lowndes @juliesquid  
-Jamie Afflerbach @jafflerbach
+Jamie Afflerbach @jafflerbach  
+Brett Longworth @blongworth
 
 Schedule: discuss the last session of the day  
 

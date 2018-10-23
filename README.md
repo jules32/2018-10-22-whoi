@@ -4,7 +4,7 @@ All the course materials are linked from the course website: [https://jules32.gi
 
 Come say hello: 
  
-- Instructors: Julie Lowndes, Jamie Afflerbach
+- Instructors: Julie Lowndes @juliesquid, Jamie Afflerbach @jafflerbach
 - Host: Stace Beaulieu
 - Helpers: Brett Longworth, Craig McLean
 
@@ -17,3 +17,6 @@ In the workshop we'll use the sticky notes to indicate whether everything is OK 
 WIFI info is written on the whiteboard.
 
 Toilets are just behind you.
+
+Wednesday seminar at 10am: 
+![](fig/whoi_seminar.jpg)

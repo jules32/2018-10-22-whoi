@@ -28,5 +28,7 @@ Twitter:
 Julie Lowndes @juliesquid  
 Jamie Afflerbach @jafflerbach
 
+Schedule: discuss the last session of the day  
+
 Wednesday seminar at 10am: 
 ![](fig/whoi_seminar.jpg)

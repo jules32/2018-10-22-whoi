@@ -16,7 +16,17 @@ In the workshop we'll use the sticky notes to indicate whether everything is OK 
 
 WIFI info is written on whiteboard.
 
+
+
 Toilets are just behind you.
+
+# Welcome to Software Carpentry WHOI Day 2!
+
+## Tuesday announcements
+
+Twitter:  
+Julie Lowndes @juliesquid  
+Jamie Afflerbach @jafflerbach
 
 Wednesday seminar at 10am: 
 ![](fig/whoi_seminar.jpg)
